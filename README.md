@@ -1,5 +1,8 @@
 # Social Network
 
+https://drive.google.com/file/d/1lY2jODxDFc2OP9FXPXso06F0ty_Db9xZ/view
+
+
 ## Description
     
 A social network API that allows to create update and delete users, users can create and update thoughts and also  add and remove friends and react to others thoughts
@@ -27,5 +30,4 @@ JavaScript
 ## Authors
 - Shanice
 
-https://drive.google.com/file/d/1lY2jODxDFc2OP9FXPXso06F0ty_Db9xZ/view
  
